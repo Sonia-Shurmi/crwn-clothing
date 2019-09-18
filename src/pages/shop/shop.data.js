@@ -7,7 +7,7 @@ const SHOP_DATA = [
             {
                 id: 1,
                 name: 'Brown Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 25
             },
             {
@@ -19,7 +19,7 @@ const SHOP_DATA = [
             {
                 id: 3,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             },
             {
@@ -44,7 +44,7 @@ const SHOP_DATA = [
             {
                 id: 2,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             },
             {
@@ -56,7 +56,7 @@ const SHOP_DATA = [
             {
                 id: 4,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             }
         ]
@@ -69,7 +69,7 @@ const SHOP_DATA = [
             {
                 id: 1,
                 name: 'Brown Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 25
             },
             {
@@ -81,7 +81,7 @@ const SHOP_DATA = [
             {
                 id: 3,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             },
             {
@@ -106,7 +106,7 @@ const SHOP_DATA = [
             {
                 id: 2,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             },
             {
@@ -118,7 +118,7 @@ const SHOP_DATA = [
             {
                 id: 4,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             }
         ]
@@ -137,7 +137,7 @@ const SHOP_DATA = [
             {
                 id: 2,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             },
             {
@@ -149,7 +149,7 @@ const SHOP_DATA = [
             {
                 id: 4,
                 name: 'Blue Brim',
-                imageUrl: 'https:/i.ibb.co/R70vBrQ/mens.png',
+                imageUrl: 'https:/i.ibb.co/GCCdy8t/womens.png',
                 price: 18
             }
         ]
